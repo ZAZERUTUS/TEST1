@@ -1,0 +1,1 @@
+echo "This new feature for next release, now in develop stage 1"
